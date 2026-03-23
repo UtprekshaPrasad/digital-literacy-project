@@ -9,3 +9,6 @@
 
 ## Screenshot:
 <img width="822" height="883" alt="Screenshot 2026-03-22 215352" src="https://github.com/user-attachments/assets/be513caa-6ff9-4d5f-a440-d2016e52ed80" />
+
+### Notes:
+HackerRank is a digital tool which helped me develop and practice coding skills by solving numerous quizzes. Creating Google form helped me in having real-time analysis, customizing question types and having easy distribution via link.
